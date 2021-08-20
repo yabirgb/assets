@@ -1,2 +1,4 @@
 eth-utils==1.10.0
 pytest==6.2.3
+beautifulsoup4==4.9.3
+requests==2.26.0
